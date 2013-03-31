@@ -1,0 +1,15 @@
+   #tweets { 
+    background:#FAFAFA;
+    border:1px solid #e4e4e4;
+    margin:0; 
+    padding:0;
+}
+#tweets li {
+    border-bottom:1px dotted #CCC;
+    list-style:none;
+    padding:5px;
+}
+
+#tweets li:last-child { 
+    border:0; 
+}
